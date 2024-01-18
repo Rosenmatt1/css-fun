@@ -1,3 +1,7 @@
 .box {
     writing-mode: vertical-lr;
 }
+
+.test {
+    font: black;
+}
